@@ -41,5 +41,5 @@ stellar_y = rows * h
 sheet.paste(stellar_img, (stellar_x, stellar_y), stellar_img)
 
 # sauvegarde
-sheet.save("teracristal_planche.png")
+sheet.save("_teracristal_planche.png")
 print("✅ Planche générée : teracristal_planche.png")
